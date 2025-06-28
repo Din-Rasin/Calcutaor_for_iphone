@@ -1,10 +1,7 @@
-
-
-# 📱 Calculator for iPhone
-
-A clean, modern, and fast **calculator app for iOS**, built using **Swift** and **UIKit/SwiftUI**. Inspired by Apple's native Calculator app, this version adds a refreshed UI, additional scientific functions, and easy customization — perfect for learning Swift or building practical iOS utilities.
-
----
+📱 Calculator for iPhone — Screenshot Preview
+<p align="center"> <img src="https://github.com/Din-Rasin/Calcutaor_for_iphone/blob/main/Screenshot%202025-06-28%20163357.png?raw=true" width="300" alt="Calculator for iPhone Screenshot" /> </p>
+Description:
+This screenshot displays the sleek, minimalist design of the Calculator app tailored for iPhone. The interface focuses on usability and clarity, featuring essential calculator functions in an elegant layout optimized for mobile use.
 
 ## ✨ Features
 
